@@ -1,1 +1,1 @@
-# ck-crypto-analysis
+Crypto Analysis via CoinMarketCap's API
